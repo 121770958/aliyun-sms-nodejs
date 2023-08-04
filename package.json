@@ -1,0 +1,48 @@
+{
+  "_from": "aliyun-sms-nodejs",
+  "_id": "aliyun-sms-nodejs@1.2.8",
+  "_inBundle": false,
+  "_integrity": "sha512-fdBlua/2jLxIkN9sya3at6kx7QFZnLbU6TY50v0Npk8oosz67fNmXaPWMULarCftK4N1UrQsO3QyFjaPA0/01Q==",
+  "_location": "/aliyun-sms-nodejs",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aliyun-sms-nodejs",
+    "name": "aliyun-sms-nodejs",
+    "escapedName": "aliyun-sms-nodejs",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aliyun-sms-nodejs/-/aliyun-sms-nodejs-1.2.8.tgz",
+  "_shasum": "20dad0522c220ac3ddb6ff160af0348a131f6b9c",
+  "_spec": "aliyun-sms-nodejs",
+  "_where": "/Users/liusai/workspace/aliyun-sms-nodejs",
+  "author": {
+    "name": "liusai"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hmac": "^1.0.1",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "deprecated": false,
+  "description": "阿里云短信发送SDK",
+  "keywords": [
+    "aliyun-sms, ali-sms"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "aliyun-sms-nodejs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.8"
+}
